@@ -1,18 +1,14 @@
 Simulador de Investimentos em Fundos Imobiliários (FIIs)
 
-> Projeto desenvolvido para o desafio "Entendendo o Desafio" — Trilha Excel da DIO (Digital Innovation One) em parceria com o Santander.
+> Projeto desenvolvido para o desafio Trilha Excel da DIO - Santander.
 
 Uma ferramenta desenvolvida no Microsoft Excel com interface inspirada em aplicativos modernos, projetada para planejamento financeiro pessoal, simulação de acúmulo de patrimônio via juros compostos e alocação dinâmica de aportes em Fundos Imobiliários por perfil de investidor.
-
-
 
 Demonstração da Ferramenta
 
 | Perfil Moderado (Padrão) | Perfil Agressivo (Alocação Dinâmica) |
 | :: | :: |
 | ![Simulação Perfil Moderado](docs/simulacao-moderado.png) | ![Simulação Perfil Agressivo](docs/simulacao-agressivo.png) |
-
-
 
 As 5 Perguntas de Negócio Respondidas
 
